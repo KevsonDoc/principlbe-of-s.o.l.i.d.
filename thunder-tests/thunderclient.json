@@ -1,0 +1,21 @@
+[
+  {
+    "_id": "630870b9-9964-4a6d-94de-844fe1d3993d",
+    "colId": "6b91bd31-eede-4dbd-bb44-2b0214962433",
+    "containerId": "",
+    "name": "Create",
+    "url": "http://localhost:3333/users",
+    "method": "POST",
+    "sortNum": 20000,
+    "created": "2023-04-30T14:22:45.372Z",
+    "modified": "2023-04-30T14:23:35.615Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "json",
+      "raw": "{\n  \"name\": \"Kevson Filipe\",\n  \"email\": \"example@example.com\",\n  \"password\": \"123123\"\n}",
+      "form": []
+    },
+    "tests": []
+  }
+]
